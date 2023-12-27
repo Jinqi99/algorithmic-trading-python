@@ -1,3 +1,15 @@
+Study it
+
+
+
+
+
+
+
+
+
+
+---
 # Algorithmic Trading in Python
 
 This repository
